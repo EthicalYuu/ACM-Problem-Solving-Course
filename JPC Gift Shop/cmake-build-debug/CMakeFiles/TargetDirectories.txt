@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/JPC Gift Shop/cmake-build-debug/CMakeFiles/JPC_Gift_Shop.dir
+C:/Users/96278/CLionProjects/JPC Gift Shop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/JPC Gift Shop/cmake-build-debug/CMakeFiles/rebuild_cache.dir

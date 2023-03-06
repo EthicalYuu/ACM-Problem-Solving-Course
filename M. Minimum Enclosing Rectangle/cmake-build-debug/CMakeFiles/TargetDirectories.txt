@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/M. Minimum Enclosing Rectangle/cmake-build-debug/CMakeFiles/M__Minimum_Enclosing_Rectangle.dir
+C:/Users/96278/CLionProjects/M. Minimum Enclosing Rectangle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/M. Minimum Enclosing Rectangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
