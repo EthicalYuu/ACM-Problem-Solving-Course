@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/Q. Imaginary Points/cmake-build-debug/CMakeFiles/Q__Imaginary_Points.dir
+C:/Users/96278/CLionProjects/Q. Imaginary Points/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/Q. Imaginary Points/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/S. Add Add Just ADD!/cmake-build-debug/CMakeFiles/S__Add_Add_Just_ADD_.dir
+C:/Users/96278/CLionProjects/S. Add Add Just ADD!/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/S. Add Add Just ADD!/cmake-build-debug/CMakeFiles/rebuild_cache.dir

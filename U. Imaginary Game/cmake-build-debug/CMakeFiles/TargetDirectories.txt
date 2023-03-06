@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/U. Imaginary Game/cmake-build-debug/CMakeFiles/U__Imaginary_Game.dir
+C:/Users/96278/CLionProjects/U. Imaginary Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/U. Imaginary Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
