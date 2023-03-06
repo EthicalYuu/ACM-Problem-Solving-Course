@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/V. I don't want to fail/cmake-build-debug/CMakeFiles/V__I_don_t_want_to_fail_____.dir
+C:/Users/96278/CLionProjects/V. I don't want to fail/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/V. I don't want to fail/cmake-build-debug/CMakeFiles/rebuild_cache.dir
