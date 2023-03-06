@@ -1,0 +1,3 @@
+C:/Users/96278/CLionProjects/O. Following Directions/cmake-build-debug/CMakeFiles/O__Following_Directions.dir
+C:/Users/96278/CLionProjects/O. Following Directions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/96278/CLionProjects/O. Following Directions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
